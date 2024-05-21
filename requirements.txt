@@ -1,0 +1,10 @@
+pandas 
+numpy
+tensorflow 
+keras
+PyYAML
+Pillow
+scipy
+flask_cors
+flask
+-e.
